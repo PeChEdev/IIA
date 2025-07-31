@@ -1,0 +1,13 @@
+Hipoteses para o modelo base:
+
+- A quantidade de hienas influencia a sobrevivencia de leões
+- A quantidade de leões influencia a sobrevivencia de hienas
+- A quantidade de blocos azuis influencia a sobrevivencia dos leões e a sobrevivencia de hienas
+- A quantidade de comida de grande porte influencia a sobrevivencia dos leões (0,20,30,50 leoes)
+ 
+
+Hipoteses para o modelo melhorado:
+
+- A quantidade de oasis influencia a sobrevivencia dos leoes e hienas
+- A quantidade de catos influencia a sobrevivencia dos leoes e hienas
+- A quantidade de hipopotamos influencia a sobrevivencia dos leoes e hienas
