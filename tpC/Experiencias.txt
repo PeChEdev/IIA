@@ -1,0 +1,54 @@
+Experiencias_Metodo1
+
+Experiencia 1 				/*Valores a Mudar*/
+eval_individual_penalizado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover					PREC 0.1	0.5	0.7
+mutation
+
+Experiencia 2				/*Valores a Mudar*/
+eval_individual_penalizado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover_uniforme			REC 0.1	0.5	0.7
+mutation
+
+Experiencia 3				/*Valores a Mudar*/
+eval_individual_reparado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover_uniforme			PREC 0.1	0.5	0.7
+mutation_trade			
+
+Experiencias_Metodo2
+
+Experiencia 1 				/*Valores a Mudar*/
+eval_individual_penalizado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover					PREC 0.1	0.5	0.7
+mutation
+
+Experiencia 2				/*Valores a Mudar*/
+eval_individual_penalizado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover_uniforme			REC 0.1	0.5	0.7
+mutation
+
+Experiencia 3				/*Valores a Mudar*/
+eval_individual_reparado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover_uniforme			PREC 0.1	0.5	0.7
+mutation_trade	
+
+Experiencias_Metodo3
+
+Experiencia 1- 1ªAbordagem /*Valores a Mudar*/
+eval_individual_penalizado	PopSize 500 1000	1500
+tournament					PMUT 0.001	0.01	0.1
+crossover					PREC 0.1	0.5	0.7
+mutation
+
+Experiencia 1- 1ª e 3ªAbordagem /*Valores a Mudar*/
+eval_individual_penalizado		PopSize 500 1000	1500
+tournament						PMUT 0.001	0.01	0.1
+crossover						PREC 0.1	0.5	0.7
+mutation
+
